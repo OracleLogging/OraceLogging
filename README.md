@@ -1,3 +1,4 @@
+PLEASE READ: WINDOWS DEFENDER AND CHROME DEFENDER HAS TO BE OFF, THIS ISN'T A VIRUS IT'S JUST TO ACCESS THE REQUIRED FILES THAT WINDOWS AUTOMATICALLY PROTECTES WHICH FLAGS IT AS A VIRUS.
 Please do not use the program maliciously. This program is intended to be used for educational purposes only. Mercurial is only used to demonstrate what type of information attackers can grab from a user's computer. This is a project was created to make it easier for malware analysts or ordinary users to understand how credential grabbing works and can be used for analysis, research, reverse engineering, or review.
 
 What is malware?
